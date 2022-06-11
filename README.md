@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vivek_bhoye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vivek_bhoye" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vivekbhoye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivekbhoye" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vivekbhoye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vivekbhoye" height="30" width="40" /></a>
+<a href="https://twitter.com/vivek_bhoye" target="_blank" rel="noreferrer"><img align="center" src="https://img.icons8.com/fluency/48/undefined/twitter.png" alt="vivek_bhoye" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/vivekbhoye" target="blank"><img align="center" src="https://img.icons8.com/color/48/undefined/linkedin.png" alt="vivekbhoye" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/vivekbhoye" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="vivekbhoye" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
